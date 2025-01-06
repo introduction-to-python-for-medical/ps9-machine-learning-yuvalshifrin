@@ -1,2 +1,2 @@
-path: "Yuval_model.joblib"
+path: "yuval_model.joblib"
 features: ['PPE', 'DFA']
